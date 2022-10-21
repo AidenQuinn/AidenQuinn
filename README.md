@@ -23,8 +23,8 @@ As our Billing & IAM lead, I owned end-to-end ticket resolution for more than 2,
 
 #### Technical writing
 
-- New documentation: [Single Sign-on](https://docs.mapbox.com/accounts/guides/settings/#single-sign-on-authentication-sso) setup, [Account lockout](https://docs.mapbox.com/help/troubleshooting/account-lockout/) + [Collaboration](https://docs.mapbox.com/help/troubleshooting/collaboration-best-practices/) guides
-- Maintainance, iteration: [Accounts & Pricing](https://docs.mapbox.com/accounts/guides/)
+- New docs: [Single Sign-on](https://docs.mapbox.com/accounts/guides/settings/#single-sign-on-authentication-sso), [Account lockout](https://docs.mapbox.com/help/troubleshooting/account-lockout/), [Collaboration](https://docs.mapbox.com/help/troubleshooting/collaboration-best-practices/) guides
+- Maintainance, iteration: [Accounts & Pricing](https://docs.mapbox.com/accounts/guides/) directory
 - Inernal knowledge base articles for cross-team reference
 
 ## Certifications
