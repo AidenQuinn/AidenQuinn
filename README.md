@@ -21,12 +21,16 @@ As our Billing & IAM lead, I owned end-to-end ticket resolution for more than 2,
 - Fraud detection
 - ToS compliance
 
+#### Technical writing
+
+- New documentation: [Single Sign-on](https://docs.mapbox.com/accounts/guides/settings/#single-sign-on-authentication-sso) setup, [Account lockout](https://docs.mapbox.com/help/troubleshooting/account-lockout/) + [Collaboration](https://docs.mapbox.com/help/troubleshooting/collaboration-best-practices/) guides
+- Maintainance, iteration: [Accounts & Pricing](https://docs.mapbox.com/accounts/guides/)
+- Inernal knowledge base articles for cross-team reference
+
 ## Certifications
 
 I’m currently enrolled in a full-time CompTIA Computer User Support course and have passed CompTIA's A+ Core 1 (220-1101) exam. I expect to be fully A+ certified in November 2022.
 
 ![microsoft-certified-azure-fundamentals copy](https://user-images.githubusercontent.com/20598581/195670734-f3862cc1-0426-4627-97fe-7707a5c27d4c.png)
 
-### Technical writing
 
-As a Product Manager and Support Engineer, I authored new documentation ([Single Sign-on](https://docs.mapbox.com/accounts/guides/settings/#single-sign-on-authentication-sso) setup, [Account lockout](https://docs.mapbox.com/help/troubleshooting/account-lockout/) + [Collaboration](https://docs.mapbox.com/help/troubleshooting/collaboration-best-practices/) guides), and iterated on existing [Accounts & Pricing](https://docs.mapbox.com/accounts/guides/) docs based on user feedback / ticket metrics. Internally, I created and updated knowledge base articles for cross-team reference. 
