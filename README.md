@@ -29,7 +29,7 @@ As our Billing & IAM lead, I owned end-to-end ticket resolution for more than 2,
 
 ## Certifications
 
-I’m currently enrolled in a full-time CompTIA Computer User Support course and have passed CompTIA's A+ Core 1 (220-1101) exam. I expect to be fully A+ certified in November 2022.
+I’m currently enrolled in a full-time CompTIA Computer User Support course and have passed CompTIA's A+ Core 1 (220-1101) exam. I expect to be fully A+ certified in November 2022. As of September 2022, I'm certified in Microsoft Azure Fundamentals (AZ-900):
 
 ![microsoft-certified-azure-fundamentals copy](https://user-images.githubusercontent.com/20598581/195670734-f3862cc1-0426-4627-97fe-7707a5c27d4c.png)
 
