@@ -1,25 +1,25 @@
 ## About me
 
-I'm a technical support engineer with 5 years of experience and a specialization in Billing & Identity Access Management (IAM). 
+I'm a technical support engineer with a specialization in Billing & Identity Access Management (IAM) who is transitioning into IT.
 
-While sitting with Sales, Customer Success, Engineering, and Global Support teams in various roles [@Mapbox](https://github.com/mapbox), I was a key contributor to cross-departmental collaborations such as Pricing model changes, Data Privacy initiatives, our Single Sign on Product launch, ToS compliance, Fraud detection, and IT / Security rollouts.
+Over 5+ years [@Mapbox](https://github.com/mapbox) in various roles (Support, Customer Success, Product Management, and Sales), I was a key contributor to cross-departmental collaborations such as product launches & deprecations, pricing changes, service compliance, and fraud/abuse detection.
 
 ### Areas of ownership
 
-As our Billing & IAM lead, I owned end-to-end ticket resolution for more than 2,000 tickets / year, in the following domains:
+As the Billing & IAM lead, I owned end-to-end ticket resolution for more than 2,000 tickets / year, in the following domains:
 
-- SAML Single Sign-on (SSO)
-- Access Token scopes, restrictions
+- [SAML Single Sign-on](https://blog.mapbox.com/saml-single-sign-on-sso-public-beta-d859569b8b87) (SSO)
+- [Account dashboard](https://blog.mapbox.com/meet-your-new-account-dashboard-207685bec215) (`account.mapbox.com`)
+- Access Tokens, Scopes & [URL restrictions](https://blog.mapbox.com/url-restrictions-for-access-tokens-5f7f7eb90092)
 - Multi-factor Authentication (MFA)
-- Account lockout procedures
+- Lockout / ownership verification
 - Email deliverability, automation
+- Transactional email campaigns
 - Cost forecasting / management
 - GDPR / CCPA, DPA requests
-- Pricing model comparisons
+- Legacy pricing models
 - Net 30 ACH invoicing
 - Discount policies
-- Fraud detection
-- ToS compliance
 
 #### Technical writing
 
