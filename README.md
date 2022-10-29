@@ -12,7 +12,7 @@ I'm Azure Fundamentals (AZ-900) certified.
 
 ## Experience
 
-As the Billing & IAM lead at Mapbox, I owned end-to-end ticket resolution for more than 2,000 tickets / year, covering:
+I've owned the end-to-end ticket resolution for more than 2,000 tickets / year, covering:
 
 - [SAML Single Sign-on](https://blog.mapbox.com/saml-single-sign-on-sso-public-beta-d859569b8b87) (SSO)
 - [Account dashboard](https://blog.mapbox.com/meet-your-new-account-dashboard-207685bec215) (`account.mapbox.com`)
