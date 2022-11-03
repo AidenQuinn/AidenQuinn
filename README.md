@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi, I'm Aiden 👋</h1>
 
-I'm a Technical Support Engineer with a specialization in Billing, Identity & Access Management (IAM). I'm currently working on my CompTIA A+ certification (expected 11/2022) and am transitioning into IT Support / HelpDesk. 
+I'm a Technical Support Engineer with a specialization in Billing, Identity & Access Management (IAM). I'm currently finishing a CompTIA Computer User Support program and am interviewing for a new IT Support / HelpDesk role.
 
-Over 5+ years [@Mapbox](https://github.com/mapbox) in various roles (Support, Customer Success, Product Management, and Sales), I'm grateful to have been involved in high-impact, cross-departmental collaborations such as product launches, feature deprecations, pricing changes, service compliance, and fraud/abuse detection.
+Throughout 5+ years [@Mapbox](https://github.com/mapbox) in various roles (Support, Customer Success, Product Management, and Sales), I'm grateful to have been involved in high-impact, cross-departmental collaborations such as product launches, feature deprecations, pricing changes, service compliance, and fraud/abuse detection.
 
-I'm Azure Fundamentals (AZ-900) certified.
+I'm CompTIA A+ and Azure Fundamentals certified:
 
-<a href="https://linkedin.com/in/equinn10" target="blank"><img align="center" src="https://user-images.githubusercontent.com/20598581/195670734-f3862cc1-0426-4627-97fe-7707a5c27d4c.png" alt="aiden quinn" height="100" width="100" /></a>
+<a href="https://linkedin.com/in/equinn10" target="blank"><img align="center" src="https://user-images.githubusercontent.com/20598581/199817103-6e8a344f-c502-47d0-bc68-239f55992a54.png" alt="aiden quinn" height="100" width="100" /></a> <a href="https://linkedin.com/in/equinn10" target="blank"><img align="center" src="https://user-images.githubusercontent.com/20598581/195670734-f3862cc1-0426-4627-97fe-7707a5c27d4c.png" alt="aiden quinn" height="100" width="100" /></a>
 
 ## Experience
 
