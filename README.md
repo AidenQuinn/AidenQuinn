@@ -2,7 +2,7 @@
 
 Hi, I'm Aiden 👋
 
-I'm a Technical Support Engineer with 5+ years total experience in startups and a specialization in Billing, Identity & Access Management (IAM). 
+I'm a Technical Support Engineer with 8+ years total experience in startups and a specialization in Billing, Identity & Access Management (IAM). 
 
 I'm a graduate of CompTIA's 295 hour Computer User Support program and am CompTIA A+ and Azure Fundamentals certified:
 
