@@ -1,6 +1,6 @@
 <img align="right" alt="Headshot" width="400" src="https://user-images.githubusercontent.com/20598581/198842247-054db112-0a7b-40b6-b970-d4e94e397cbf.png"/>
 
-<h1 align="center">Hi, I'm Aiden 👋</h1>
+Hi, I'm Aiden 👋
 
 I'm a Technical Support Engineer with 5+ years total experience in startups and a specialization in Billing, Identity & Access Management (IAM). 
 
